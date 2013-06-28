@@ -25,6 +25,9 @@ function ipsuMe(){
 			if (paragraph != "") paragraph += " "; //add a space before next sentence if it isnt the first sentence in the sentence
 			paragraph += sentence;
 		}
+		if(ipsum.length == 0){
+			paragraph = "Prodaqsum " + paragraph.charAt(0).toLowerCase() + paragraph.slice(1); //make first word be prodaqsum
+		}
 		ipsum[ipsum.length] = paragraph;
 	}
 	var resultDiv = $("#result");
