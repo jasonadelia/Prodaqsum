@@ -54,5 +54,6 @@ var phrases = [
 	"chuckleheads",
 	"BBM",
 	"BB",
-	"dont make me go to shittown"
+	"dont make me go to shittown",
+	"shartup"
 ];
