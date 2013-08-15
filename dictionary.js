@@ -55,5 +55,9 @@ var phrases = [
 	"BBM",
 	"BB",
 	"dont make me go to shittown",
-	"shartup"
+	"shartup",
+	"what do you mean we did shots",
+	"dont headbutt me bro",
+	"the Bidness Bulldog",
+	"everyone but Rich"
 ];
