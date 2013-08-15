@@ -49,5 +49,9 @@ var phrases = [
 	"bloody mary before 12",
 	"bloody maria",
 	"drive safe",
-	"redonkulous"
+	"redonkulous",
+	"twerk",
+	"chuckleheads",
+	"BBM",
+	"BB"
 ];
